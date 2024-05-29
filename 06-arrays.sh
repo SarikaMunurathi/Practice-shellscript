@@ -2,4 +2,4 @@
 
 Flowers=("rose","jasmine","lilly")
 
-echo "List of Flowers : $Flowers[@]"
+echo "List of Flowers : ${Flowers[@]}"
