@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NO1:$1
+NO1=$1
 
 if [ $NO1 -gt 10 ]
 then
